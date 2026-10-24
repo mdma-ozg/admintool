@@ -1,5 +1,4 @@
-# Source Admin Tool 
-
+# Source Admin Tool
 A cross-platform server administration tool for Valve Source Engine and GoldSrc game servers. Alternative to HLSW.
 
 [![CI](https://github.com/scai/admintool/actions/workflows/build.yml/badge.svg)](https://github.com/scai/admintool/actions/workflows/build.yml)
